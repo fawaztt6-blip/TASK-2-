@@ -145,12 +145,17 @@ When the selected color is detected, the program draws a rectangle around the ob
 
 Install the required libraries:
 
-```bash
-pip install opencv-python numpy
+```bash # pip install opencv-python numpy
 
-##########################################################
 
-## HuskyLens Color Recognition
+
+
+
+
+
+
+
+ HuskyLens Color Recognition
 
 `HuskyLens_Color_Recognition.ino`
 
