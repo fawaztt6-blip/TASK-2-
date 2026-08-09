@@ -148,6 +148,7 @@ Install the required libraries:
 ```bash
 pip install opencv-python numpy
 
+##########################################################
 
 HuskyLens Color Recognition
 
