@@ -150,7 +150,7 @@ pip install opencv-python numpy
 
 ##########################################################
 
-# HuskyLens Color Recognition
+## HuskyLens Color Recognition
 
 `HuskyLens_Color_Recognition.ino`
 
